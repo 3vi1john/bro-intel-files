@@ -1,0 +1,20 @@
+#fields	indicator	indicator_type	meta.source	meta.url	meta.do_notice	meta.if_in	meta.whitelist
+linturefa.com	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+xablopefgr.com	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+tabidzuwek.com	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+lacdileftre.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+tabidzuwek.com	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+xablopefgr.com	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+lacdileftre.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+weksrubaz.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+linturefa.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+mifastubiv.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+xablopefgr.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+tabidzuwek.ru	Intel::DOMAIN	poseidon-pos-malware	-	T	-	-
+151.236.11.167	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+185.13.32.132	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+185.13.32.48	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+31.184.192.196	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+91.220.131.116	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+91.220.131.87	Intel::ADDR	poseidon-pos-malware	-	T	-	-
+
